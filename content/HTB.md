@@ -27,9 +27,9 @@ Dive into my write-ups of Windows-based HTB boxes. Here, I navigate through diff
 
 ## Latest Writeups
 
-- [Box Name](link-to-writeup)
-- [Box Name](link-to-writeup)
-- [Box Name](link-to-writeup)
+- [Secnotes](Secnotes.md)
+- [Bastion](Bastion.md)
+- [Swagshop](SwagShop.md)
 
 ---
 

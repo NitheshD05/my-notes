@@ -6,9 +6,9 @@ Welcome, fellow hackers, to the Linux lair of my HTB write-ups! Dive into the de
 
 ## Writeups
 
-### [[Bashed]]
+### [Bashed](Bashed.md)
 
-### [[Beep]]
+### [Beep](Beep.md)
 ### [BrainFuck](BrainFuck.md)
 
 ### [Cronos](Cronos.md)

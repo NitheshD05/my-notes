@@ -47,9 +47,9 @@ Feel free to explore my profile and reach out if you have any questions, collabo
 - [**GitHub**](https://github.com/NitheshD05) 
 - [**HTB Profile**](https://app.hackthebox.com/profile/1701603) 
 - Email: nitheshdm05@gmail.com
-  - [**Instagram**](https://www.instagram.com/nithesh_dm/) 
-  - [**Facebook**](https://www.facebook.com/nithesh.d.1?mibextid=ZbWKwL) 
-  - [**X**](https://x.com/05Nithesh)
+- [**Instagram**](https://www.instagram.com/nithesh_dm/) 
+- [**Facebook**](https://www.facebook.com/nithesh.d.1?mibextid=ZbWKwL) 
+- [**X**](https://x.com/05Nithesh)
 ---
 ## Site Update Note
 I've started by uploading my Linux HTB write-ups, but stay tuned for more! I will be adding Windows HTB write-ups soon and will also share my penetration testing notes as I continue to build and improve the site.

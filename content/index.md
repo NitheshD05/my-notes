@@ -1,8 +1,8 @@
 ---
 title: Welcome to My Page
 ---
-# Welcome to Nithesh's Personal Site! 
-Hello! I'm Nithesh Dhakshanamoorthy, an enthusiastic cybersecurity professional and recent MSc graduate in Information Security. Originally from India, I pursued my studies in the UK, where I developed a deep passion for penetration testing and network security. With a strong foundation in both theoretical and practical aspects of cybersecurity, I am currently seeking opportunities in the UK to further my career, particularly in penetration testing. I hold a graduate route visa valid until January 2026, which allows me to work and gain valuable experience in the UK. 
+# Hello...! 
+I'm Nithesh Dhakshanamoorthy, an enthusiastic cybersecurity professional and recent MSc graduate in Information Security. Originally from India, I pursued my studies in the UK, where I developed a deep passion for penetration testing and network security. With a strong foundation in both theoretical and practical aspects of cybersecurity, I am currently seeking opportunities in the UK to further my career, particularly in penetration testing. I hold a graduate route visa valid until January 2026, which allows me to work and gain valuable experience in the UK. 
 ## About Me 
 I have a diverse skill set that includes penetration testing, network security, and web development. My expertise extends across various technologies and tools, and I am ranked among the top 400 hackers globally on Hack The Box (HTB). My goal is to leverage my skills and experience to contribute to innovative cybersecurity solutions.
 

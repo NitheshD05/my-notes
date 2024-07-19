@@ -1,6 +1,51 @@
 ---
-title: Welcome to Quartz
+title: Welcome to My Page
+---
+# Welcome to Nithesh's Personal Site! 
+Hello! I'm Nithesh Dhakshanamoorthy, an enthusiastic cybersecurity professional and recent MSc graduate in Information Security. Originally from India, I pursued my studies in the UK, where I developed a deep passion for penetration testing and network security. With a strong foundation in both theoretical and practical aspects of cybersecurity, I am currently seeking opportunities in the UK to further my career, particularly in penetration testing. I hold a graduate route visa valid until January 2026, which allows me to work and gain valuable experience in the UK. 
+## About Me 
+I have a diverse skill set that includes penetration testing, network security, and web development. My expertise extends across various technologies and tools, and I am ranked among the top 400 hackers globally on Hack The Box (HTB). My goal is to leverage my skills and experience to contribute to innovative cybersecurity solutions.
+
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Explore My Profile
+
+On this site, you'll find:
+
+- **My CV**: [CV](Cv.md)
+- **Hack The Box Write-ups**: [HTB Write-ups](HTB.md)
+
+---
+
+## Notable Projects
+
+### Wi-Fi Analyzer using Plux Algorithm
+- **Description**: Developed a tool to pen-test WIFI networks, automating pre-configurations to identify vulnerabilities.
+- **Technologies**: Python, Kali Linux
+- [Github Repo](https://github.com/NitheshD05/Wifi-analyser)
+
+### IoT Security: Safeguarding the Connected World
+- **Description**: Created a Python-based penetration testing tool for IoT devices, focusing on protocols like CoAP, UPnP/SSDP, and MQTT.
+- **Technologies**: Python
+- [Github Repo](https://github.com/NitheshD05/IOT-Security)
+
+---
+
+## Achievements & Highlights
+
+- **Top 3% Competitor**: Ranked among the top 1% of competitors on TryHackMe out of over 4 million users.
+- **Hack The Box**: Actively participate and rank in the top 400 hackers worldwide.
+- **Semi-finalist**: Reached the semi-finals at the National-level Smart India Hackathon 2019.
+
+---
+
+## Connect with Me 
+Feel free to explore my profile and reach out if you have any questions, collaboration ideas, or job opportunities: 
+- [**LinkedIn**](https://www.linkedin.com/in/nithesh-dhakshanamoorthy-2541111b3) 
+- [**GitHub**](https://github.com/NitheshD05) 
+- [**HTB Profile**](https://app.hackthebox.com/profile/1701603) 
+- Email: nitheshdm05@gmail.com
+
+---
+## Site Update Note
+I've started by uploading my Linux HTB write-ups, but stay tuned for more! I will be adding Windows HTB write-ups soon and will also share my penetration testing notes as I continue to build and improve the site.

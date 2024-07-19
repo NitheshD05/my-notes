@@ -10,7 +10,7 @@ Welcome, fellow hackers, to the Windows realm of my HTB write-ups! Explore the c
 
 ### [Authority](Authority.md)
 
-### [Bank Robber](Bank Robber.md)
+### [Bank Robber](BankRobber.md)
 
 ### [Bastard](Bastard.md)
 

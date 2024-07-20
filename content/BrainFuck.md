@@ -1,3 +1,5 @@
+![[Pasted image 20240720104827.png]]
+
 **Ping Scan**
 We can reach the machine..!
 ```

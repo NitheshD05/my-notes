@@ -1,3 +1,5 @@
+![[Pasted image 20240720111513.png]]
+
 # Hack The Box (HTB) Writeups 
 Welcome to my HTB Writeup Section! Here, you'll find detailed walkthroughs of various HTB boxes that I’ve pwned. Each write-up is categorized under either Linux or Windows for easy navigation. Enjoy the journey!
 ## Sections
@@ -9,6 +11,9 @@ Explore my adventures with Linux-based HTB boxes, where I tackle various challen
 ### 🖥️ Windows Boxes
 Dive into my write-ups of Windows-based HTB boxes. Here, I navigate through different Windows environments, uncovering vulnerabilities and exploiting them.
 - [Windows](HTB_Windows.md)
+  
+### ⚙️ Nmap Automation Tool 
+In many of my write-ups, you will find custom Nmap command **(mapit)** that automate my scanning process. To streamline these scans, I have developed an Nmap automation tool using Python. You can find it here: [GitHub Repo](https://github.com/NitheshD05/Nmap-Automation-Script)
 
 ---
 

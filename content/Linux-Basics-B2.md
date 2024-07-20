@@ -1,6 +1,6 @@
 # Linux for Beginners: A Fun and Easy Guide to Getting Started
 
-**Subtitle:** Discover the wonders of Linux and how to navigate this powerful operating system like a pro!
+## Discover the wonders of Linux and how to navigate this powerful operating system like a pro!
 
 ![[Pasted image 20240720170318.png]]
 
@@ -23,7 +23,7 @@ Think of Linux as a well-organized team, with each part playing a crucial role. 
 - **System Utilities: The Handy Tools**  
   These are the tools and programs that perform everyday tasks. Think of them as your Swiss Army knife, ready to handle any job.
 
-- **The Shell: Your Command Center**  
+- **The Shell: Your Command Centre**  
   The shell is where you type commands and interact with Linux. It’s like a magical portal that lets you control the entire system. Popular shells include bash and zsh.
 
 - **Applications: The Fun Stuff**  

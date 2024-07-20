@@ -1,5 +1,5 @@
+[My HTB Profile ](https://app.hackthebox.com/profile/1701603)
 ![[Pasted image 20240720111513.png]]
-
 # Hack The Box (HTB) Writeups 
 Welcome to my HTB Writeup Section! Here, you'll find detailed walkthroughs of various HTB boxes that I’ve pwned. Each write-up is categorized under either Linux or Windows for easy navigation. Enjoy the journey!
 ## Sections

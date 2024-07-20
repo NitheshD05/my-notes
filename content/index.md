@@ -35,7 +35,7 @@ On this site, you'll find:
 
 ## Achievements & Highlights
 
-- **Top 3% Competitor**: Ranked among the top 1% of competitors on TryHackMe out of over 4 million users.
+- **Top 3% Competitor**: Ranked among the top 3% of competitors on TryHackMe out of over 4 million users.
 - **Hack The Box**: Actively participate and rank in the top 400 hackers worldwide.
 - **Semi-finalist**: Reached the semi-finals at the National-level Smart India Hackathon 2019.
 

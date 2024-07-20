@@ -1,8 +1,6 @@
 ---
 title: Hello and Welcome to My Digital Space ! Discover and Engage
 ---
-# Hello...!
-
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p style="font-size: 1em;">I'm Nithesh Dhakshanamoorthy, an enthusiastic cybersecurity professional and recent MSc graduate in Information Security. Originally from India, I pursued my studies in the UK, where I developed a deep passion for penetration testing and network security. With a strong foundation in both theoretical and practical aspects of cybersecurity, I am currently seeking opportunities in the UK to further my career, particularly in penetration testing. I hold a graduate route visa valid until January 2026, which allows me to work and gain valuable experience in the UK.</p>

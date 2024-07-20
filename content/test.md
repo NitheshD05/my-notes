@@ -2,10 +2,10 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    I'm Nithesh Dhakshanamoorthy, an enthusiastic cybersecurity professional and recent MSc graduate in Information Security. Originally from India, I pursued my studies in the UK, where I developed a deep passion for penetration testing and network security. With a strong foundation in both theoretical and practical aspects of cybersecurity, I am currently seeking opportunities in the UK to further my career, particularly in penetration testing. I hold a graduate route visa valid until January 2026, which allows me to work and gain valuable experience in the UK.
+    <p style="font-size: 1em;">I'm Nithesh Dhakshanamoorthy, an enthusiastic cybersecurity professional and recent MSc graduate in Information Security. Originally from India, I pursued my studies in the UK, where I developed a deep passion for penetration testing and network security. With a strong foundation in both theoretical and practical aspects of cybersecurity, I am currently seeking opportunities in the UK to further my career, particularly in penetration testing. I hold a graduate route visa valid until January 2026, which allows me to work and gain valuable experience in the UK.</p>
   </div>
   <div style="flex: 0 0 auto; padding-left: 20px;">
-    <img src="2022-09-03-14-32-16-079-removebg-preview (1).png" alt="Profile Picture" style="width: 200px;"/>
+    <img src="My-Profile-Pic.jpg" alt="Profile Picture" style="width: 200px;"/>
   </div>
 </div>
 
@@ -64,4 +64,4 @@ Feel free to explore my profile and reach out if you have any questions, collabo
 
 ## Site Update Note
 
-I've started by uploading my HTB write-ups, but stay tuned for more! I will be adding Blogs for Penetration Testing as I continue to build and improve the site.
+I've started by uploading my HTB write-ups, but stay tuned for more! I will be adding Blogs for Penetartion Testing as I continue to build and improve the site.

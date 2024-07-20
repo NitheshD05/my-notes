@@ -19,3 +19,4 @@ Linux basic end
 ![[Pasted image 20240720165200.png]]
 
 My Profile pic 
+![[My-Profile-Pic.jpg]]

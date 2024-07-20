@@ -53,4 +53,4 @@ Feel free to explore my profile and reach out if you have any questions, collabo
 - [**X**](https://x.com/05Nithesh)
 ---
 ## Site Update Note
-I've started by uploading my Linux HTB write-ups, but stay tuned for more! I will be adding Windows HTB write-ups soon and will also share my penetration testing notes as I continue to build and improve the site.
+I've started by uploading my Linux HTB write-ups, but stay tuned for more! I will be adding Blogs for Penetartion Testing as I continue to build and improve the site.

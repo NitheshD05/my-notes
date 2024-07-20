@@ -1,5 +1,5 @@
 ---
-title: Hello and Welcome to My Digital Space ! Discover and Engage
+title: Hello and Welcome to My Digital Space !!
 ---
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">

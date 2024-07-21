@@ -1,4 +1,19 @@
-![[Pasted image 20240720104740.png]]
+<img src="Pasted image 20240720104740.png" alt="Beep-img" class="htb-beep-img">
+
+<style>
+  .htb-beep-img {
+    width: 100%;
+    max-width: 800px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.8); /* Initial glow effect */
+    transition: box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out; /* Smooth transition for glow and zoom effects */
+  }
+
+  .htb-beep-img:hover {
+    box-shadow: 0 0 20px rgba(0, 255, 0, 1); /* Enhanced glow on hover */
+    transform: scale(1.05); /* Zoom effect on hover */
+  }
+</style>
 
 **Ping** 
 ![[Pasted image 20240616222303.png]]

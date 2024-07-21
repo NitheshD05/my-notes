@@ -3,13 +3,11 @@
 nitheshdm05@gmail.com | +44 7767934689 | [LinkedIn](https://www.linkedin.com/in/nithesh-dhakshanamoorthy-2541111b3) | [GitHub](https://github.com/NitheshD05) | [HTB Profile](https://app.hackthebox.com/profile/1701603) | [Visit My Website](https://nitheshd05.github.io/My-Digital-Realm/)
 
 ---
-
 ## Summary
 
 With an MSc in Information Security and a B.Eng in Computer Science, I possess strong skills in cybersecurity and programming (C, C++, Python, JavaScript, HTML, CSS). During a 6-month internship at Tech Affinity Global, I enhanced my web development abilities. My dedication to cybersecurity is reflected in my top 3% ranking on TryHackMe and a global ranking of top 400 on Hack The Box
 
 ---
-
 ## Education
 
 **Masters in Information Security**  
@@ -25,22 +23,11 @@ Aug 2017 – Apr 2021
 Key Modules: Data Structures, Design and Analysis of Algorithms, Object-Oriented Programming, Software Engineering, Communication Engineering, Artificial Intelligence, Software Testing, Database Management System
 
 ---
-
 ## Technical Skills
 
-- Penetration Testing
-- Network Security
-- Linux
-- C, C++, Python, Ruby
-- CTF
-- HTML, CSS, JavaScript
-- Burp Suite, Metasploit, Nmap
-- Linux, Windows, Active Directory
-- Wireshark
-- ISO 27001
+Penetration Testing *|* Network Security *|* Linux *|* C *|* C++ *|* Python *|* Ruby *|* CTF *|* HTML *|* CSS *|* JavaScript *|* Burp Suite *|* Metasploit *|* Nmap *|* Linux *|* Windows *|* Active Directory *|* Wireshark *|* ISO 27001
 
 ---
-
 ## Soft Skills
 
 - **Communication:** Organized numerous symposiums and events, enhancing communication skills.
@@ -50,7 +37,6 @@ Key Modules: Data Structures, Design and Analysis of Algorithms, Object-Oriented
 - **Leadership:** Led college events and symposiums, organizing and leading committee members.
 
 ---
-
 ## Certifications
 
 - Information Security: Context and Introduction | University of London
@@ -59,7 +45,6 @@ Key Modules: Data Structures, Design and Analysis of Algorithms, Object-Oriented
 - Penetration Testing, Incident Response and Forensics | IBM
 
 ---
-
 ## Work Experience
 
 **Software Developer Intern**  
@@ -71,7 +56,6 @@ Oct 2021 – Apr 2022
 - Improved company website performance by 5% on mobile and 12% on desktop.
 
 ---
-
 ## Research Experience
 
 **Dark Web Analysis**  
@@ -82,7 +66,6 @@ Oct 2021 – Dec 2021
 - Organized and processed the data.
 
 ---
-
 ## Academic Projects
 
 **Wi-Fi Analyzer using Plux Algorithm**  
@@ -102,7 +85,6 @@ Jun 2023 – Aug 2023
 - [Github Repo](https://github.com/NitheshD05/IOT-Security)
 
 ---
-
 ## Achievements
 
 - First-class graduate in Bachelor's degree.
@@ -111,7 +93,6 @@ Jun 2023 – Aug 2023
 - Semi-finalist at Smart India Hackathon 2019.
 
 ---
-
 ## Activities
 
-- Volunteered at various NGOs, serving elders, children with disabilities, and abandoned individuals.
+Volunteered at various NGOs, serving elders, children with disabilities, and abandoned individuals.

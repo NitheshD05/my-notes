@@ -3,7 +3,7 @@
     <p style="font-size: 1em;">I'm Nithesh Dhakshanamoorthy, an enthusiastic cybersecurity professional and recent MSc graduate in Information Security. Originally from India, I pursued my studies in the UK, where I developed a deep passion for penetration testing and network security. With a strong foundation in both theoretical and practical aspects of cybersecurity, I am currently seeking opportunities in the UK to further my career, particularly in penetration testing. I hold a graduate route visa valid until January 2026, which allows me to work and gain valuable experience in the UK.</p>
   </div>
   <div style="flex: 0 0 auto; padding-left: 20px; min-width: 200px;">
-    <img src="My-Profile-Pic.jpg" alt="Profile Picture" style="width: 100%; max-width: 200px;"/>
+    <img src="My-Profile-Pic.jpg" alt="Profile Picture" style="width: 100%; max-width: 200px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
   </div>
 </div>
 
@@ -12,16 +12,19 @@
     div[style*="display: flex;"] {
       flex-direction: column;
       align-items: center;
+      text-align: center;
     }
     div[style*="padding-left: 20px;"] {
       padding-left: 0;
-      margin-top: 20px;
+      margin-bottom: 20px;
     }
     div[style*="flex: 0 0 auto;"] img {
       width: 50%;
+      margin-bottom: 20px;
     }
   }
 </style>
+
 
 
 

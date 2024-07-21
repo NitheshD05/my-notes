@@ -20,3 +20,9 @@ Linux basic end
 
 My Profile pic 
 ![[My-Profile-Pic.jpg]]
+
+![[Pasted image 20240721113002.jpeg]]
+
+![[linux-writeup-img.jpeg]]
+
+![[windows-writeup-img.jpeg]]

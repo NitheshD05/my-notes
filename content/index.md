@@ -65,4 +65,4 @@ Feel free to explore my profile and reach out if you have any questions, collabo
 
 ## Site Update Note
 
-I've started by uploading my HTB write-ups, but stay tuned for more! I will be adding Blogs for Penetration Testing as I continue to build and improve the site.
+I've started by uploading my HTB write-ups, but stay tuned for more! I will be adding Blogs for Penetration Testing as I continue to build and improve the site. [Test](test.md)

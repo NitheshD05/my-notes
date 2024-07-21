@@ -1,13 +1,30 @@
-# Hello...!
-
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 200px;">
     <p style="font-size: 1em;">I'm Nithesh Dhakshanamoorthy, an enthusiastic cybersecurity professional and recent MSc graduate in Information Security. Originally from India, I pursued my studies in the UK, where I developed a deep passion for penetration testing and network security. With a strong foundation in both theoretical and practical aspects of cybersecurity, I am currently seeking opportunities in the UK to further my career, particularly in penetration testing. I hold a graduate route visa valid until January 2026, which allows me to work and gain valuable experience in the UK.</p>
   </div>
-  <div style="flex: 0 0 auto; padding-left: 20px;">
-    <img src="My-Profile-Pic.jpg" alt="Profile Picture" style="width: 200px;"/>
+  <div style="flex: 0 0 auto; padding-left: 20px; min-width: 200px;">
+    <img src="My-Profile-Pic.jpg" alt="Profile Picture" style="width: 100%; max-width: 200px;"/>
   </div>
 </div>
+
+<style>
+  @media (max-width: 600px) {
+    div[style*="display: flex;"] {
+      flex-direction: column;
+      align-items: center;
+    }
+    div[style*="padding-left: 20px;"] {
+      padding-left: 0;
+      margin-top: 20px;
+    }
+    div[style*="flex: 0 0 auto;"] img {
+      width: 50%;
+    }
+  }
+</style>
+
+
+
 
 ## About Me
 

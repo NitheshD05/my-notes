@@ -1,33 +1,72 @@
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 200px;">
-    <p style="font-size: 1em;">I'm Nithesh Dhakshanamoorthy, an enthusiastic cybersecurity professional and recent MSc graduate in Information Security. Originally from India, I pursued my studies in the UK, where I developed a deep passion for penetration testing and network security. With a strong foundation in both theoretical and practical aspects of cybersecurity, I am currently seeking opportunities in the UK to further my career, particularly in penetration testing. I hold a graduate route visa valid until January 2026, which allows me to work and gain valuable experience in the UK.</p>
+<div class="profile-container">
+  <div class="profile-summary">
+    <p>I'm Nithesh Dhakshanamoorthy, an enthusiastic cybersecurity professional and recent MSc graduate in Information Security. Originally from India, I pursued my studies in the UK, where I developed a deep passion for penetration testing and network security. With a strong foundation in both theoretical and practical aspects of cybersecurity, I am currently seeking opportunities in the UK to further my career, particularly in penetration testing. I hold a graduate route visa valid until January 2026, which allows me to work and gain valuable experience in the UK.</p>
   </div>
-  <div style="flex: 0 0 auto; padding-left: 20px; min-width: 200px;">
-    <img src="My-Profile-Pic.jpg" alt="Profile Picture" style="width: 100%; max-width: 200px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+  <div class="profile-picture">
+    <img src="My-Profile-Pic.jpg" alt="Profile Picture"/>
   </div>
 </div>
 
 <style>
+  .profile-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .profile-summary {
+    flex: 1;
+    min-width: 200px;
+  }
+
+  .profile-summary p {
+    font-size: 1em;
+  }
+
+  .profile-picture {
+    flex: 0 0 auto;
+    padding-left: 20px;
+    min-width: 200px;
+  }
+
+  .profile-picture img {
+    width: 100%;
+    max-width: 200px;
+    border-radius: 0; /* Square shape */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+  }
+
+  .profile-picture img:hover {
+    transform: scale(1.1); /* Zoom effect */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Enhanced shadow effect */
+  }
+
   @media (max-width: 600px) {
-    div[style*="display: flex;"] {
+    .profile-container {
       flex-direction: column;
-      align-items: center;
-      text-align: center;
+      align-items: flex-start; /* Align items to the left */
+      text-align: left; /* Ensure text alignment is left */
     }
-    div[style*="padding-left: 20px;"] {
-      padding-left: 0;
-      margin-bottom: 20px;
+
+    .profile-summary {
+      order: 2; /* Make sure the summary is below the image */
+      margin-top: 20px;
     }
-    div[style*="flex: 0 0 auto;"] img {
-      width: 50%;
+
+    .profile-picture {
+      order: 1; /* Ensure the image is above the summary */
+      padding-left: 0; /* Remove left padding */
       margin-bottom: 20px;
+      align-self: flex-start; /* Align the image to the left */
+    }
+
+    .profile-picture img {
+      width: 100%;
+      max-width: 200px; /* Adjust size if needed */
     }
   }
 </style>
-
-
-
-
 
 ## About Me
 
@@ -84,4 +123,4 @@ Feel free to explore my profile and reach out if you have any questions, collabo
 
 ## Site Update Note
 
-I've started by uploading my HTB write-ups, but stay tuned for more! I will be adding Blogs for Penetartion Testing as I continue to build and improve the site.
+I've started by uploading my HTB write-ups, but stay tuned for more! I will be adding Blogs for Penetration Testing as I continue to build and improve the site.

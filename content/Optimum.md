@@ -1,3 +1,20 @@
+<img src="Pasted image 20240722183545.png" alt="HTB Profile Image" class="htb-profile-img">
+
+<style>
+  .htb-profile-img {
+    width: 100%;
+    max-width: 800px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.8); /* Initial glow effect */
+    transition: box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out; /* Smooth transition for glow and zoom effects */
+  }
+
+  .htb-profile-img:hover {
+    box-shadow: 0 0 20px rgba(0, 255, 0, 1); /* Enhanced glow on hover */
+    transform: scale(1.05); /* Zoom effect on hover */
+  }
+</style>
+
 **Ping**
 ```
 ping 10.10.10.8

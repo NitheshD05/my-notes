@@ -23,6 +23,7 @@ Welcome, fellow hackers, to the Linux lair of my HTB write-ups! Dive into the de
 
 ## Writeups
 
+### [Headless](Headless.md)
 ### [Bashed](Bashed.md)
 
 ### [Beep](Beep.md)

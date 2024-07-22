@@ -30,7 +30,7 @@ Dive into my write-ups of Windows-based HTB boxes. Here, I navigate through diff
 - [Windows](HTB_Windows.md)
   
 ### ⚙️ Nmap Automation Tool 
-In many of my write-ups, you will find custom Nmap command **(mapit)** that automate my scanning process. To streamline these scans, I have developed an Nmap automation tool using Python. You can find it here: [GitHub Repo](https://github.com/NitheshD05/Nmap-Automation-Script)
+In many of my write-ups, you will find custom Nmap command **[mapit](Nmap.py.md)** that automate my scanning process. To streamline these scans, I have developed an Nmap automation tool using Python. You can find it here: [GitHub Repo](https://github.com/NitheshD05/Nmap-Automation-Script)
 
 ---
 
@@ -49,7 +49,7 @@ In many of my write-ups, you will find custom Nmap command **(mapit)** that auto
 
 ## Latest Writeups
 
-- [Secnotes](Secnotes.md)
+- [Headless](Headless.md)
 - [Bastion](Bastion.md)
 - [Swagshop](SwagShop.md)
 

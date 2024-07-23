@@ -26,3 +26,5 @@ My Profile pic
 ![[linux-writeup-img.jpeg]]
 
 ![[windows-writeup-img.jpeg]]
+
+![[Pasted image 20240723125639.png]]

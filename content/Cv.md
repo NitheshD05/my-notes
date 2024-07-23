@@ -1,6 +1,6 @@
 # Nithesh Dhakshanamoorthy
 
-nitheshdm05@gmail.com | +44 7767934689 | [LinkedIn](https://www.linkedin.com/in/nithesh-dhakshanamoorthy-2541111b3) | [GitHub](https://github.com/NitheshD05) | [HTB Profile](https://app.hackthebox.com/profile/1701603) | [Visit My Website](https://nitheshd05.github.io/My-Digital-Realm/)
+nitheshdm05@gmail.com | +44 7767934689 | [LinkedIn](https://www.linkedin.com/in/nithesh-dhakshanamoorthy-2541111b3) | [GitHub](https://github.com/NitheshD05) | [HTB Profile](https://app.hackthebox.com/profile/1701603) | [Visit My Website](https://nitheshd05.github.io/My-Digital-Realm/) **Download My Cv** <a href="Cv.pdf" download="Nithesh-Cv.pdf"> <img src="Pasted image 20240723125639.png" alt="Download CV" style="width: 13px; height: 13px; vertical-align: middle; margin-left: 2px;"></a>
 
 ---
 ## Summary
@@ -96,3 +96,5 @@ Jun 2023 – Aug 2023
 ## Activities
 
 Volunteered at various NGOs, serving elders, children with disabilities, and abandoned individuals.
+
+**Download My Cv** <a href="Cv.pdf" download="Nithesh-Cv.pdf"> <img src="Pasted image 20240723125639.png" alt="Download CV" style="width: 13px; height: 13px; vertical-align: middle; margin-left: 2px;"></a>

@@ -80,7 +80,7 @@ I have a diverse skill set that includes penetration testing, network security, 
 
 On this site, you'll find:
 
-- **My CV**: [CV](Cv.md)
+- **My CV**: [CV](Cv.md) 
 - **Hack The Box Write-ups**: [HTB Write-ups](HTB.md)
 - **Penetration Testing Cheat Sheet**: [Cheat Sheet](Penetration-Testing-Cheat-Sheet.md)
 - **Command Dump**: [Command Dump](Command-Dump.md)
@@ -126,3 +126,4 @@ Feel free to explore my profile and reach out if you have any questions, collabo
 ## Site Update Note
 
 I've started by uploading my HTB write-ups, but stay tuned for more! I will be adding Blogs for Penetration Testing as I continue to build and improve the site.
+

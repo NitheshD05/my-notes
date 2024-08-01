@@ -69,7 +69,7 @@ The highlighted texts are my queries, You can just use this locally, no internet
 You can explore more....! Just use this like Chat GPT.
 
 
-Welll So far so good, how about creating a stranded **Web UI** for your AI models >?
+Welll So far so good, how about creating a standard **Web UI** for your AI models >?
 
 Will do that, now we need a docker to achieve this, Just use the command bellow to get a clean **Web UI** for your personalized AI models
 

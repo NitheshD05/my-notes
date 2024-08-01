@@ -21,7 +21,7 @@ wsl -d Ubuntu
 ![[Pasted image 20240731183650.png]]
 
 Now our ubuntu is ready, Will install OLLAMA (Our Personalized AI buddy)
-Use this link to do so' [Click Me to Get OLLAMA]([https://ollama.com/download](https://ollama.com/download))
+Use this link to do so' [Click Me to Get OLLAMA](https://ollama.com/download)
 ![[Pasted image 20240731184003.png]]
 We Gonna get the linux guyyyy
 

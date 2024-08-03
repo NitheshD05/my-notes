@@ -58,6 +58,7 @@ Now will pull the latest llama model llama3
 ollama pull llama3
 ```
 ![[Pasted image 20240731214905.png]]
+You can also use the latest llama model, like llama3.1 as of AUG 3rd 2024
 
 To start your AI to work
 ```

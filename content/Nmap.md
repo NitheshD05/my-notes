@@ -29,6 +29,11 @@ nmap ip -p 161 -oN udp_scan
 ```
 nmap ip -p 53,67,68,69,123,161,162,137,138,139,445,500,514,520,1194,1900,4500,5353,623 -oN udp_fullscan
 ```
+```
+nmap -sU -p 161 --script=snmp-brute ip
+```
+
+```
 
 Always Try this
 ```

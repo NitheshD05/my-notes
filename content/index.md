@@ -81,7 +81,7 @@ I have a diverse skill set that includes penetration testing, network security, 
 On this site, you'll find:
 
 - **My CV**: [CV](Cv.md) 
-- **Cover Letter**: [This for recruiters](Cover-Letter.md)
+- **Cover Letter**: [For Recruiters](Cover-Letter.md)
 - **Hack The Box Write-ups**: [HTB Write-ups](HTB.md)
 - **Penetration Testing Cheat Sheet**: [Cheat Sheet](Penetration-Testing-Cheat-Sheet.md)
 - **Command Dump**: [Command Dump](Command-Dump.md)

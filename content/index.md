@@ -89,6 +89,16 @@ On this site, you'll find:
 
 ---
 
+## Current Progress
+
+I am deeply committed to advancing my skills and knowledge in penetration testing. Here's an update on my current progress:
+
+- **Currently Working On:** eCPPTv3
+- **Next Up:** CPTS
+
+I am scheduled to take the eCPPTv3 exam by mid-August, and immediately after, I will begin preparing for the CPTS certification.
+
+---
 ## Notable Projects
 
 ### Wi-Fi Analyzer using Plux Algorithm

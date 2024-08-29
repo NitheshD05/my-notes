@@ -19,6 +19,9 @@ SMB brute force, Change service accordingly
 ```
 hydra -L user.txt -P /usr/share/metasploit-framework/data/wordlists/unix_passwords.txt target_ip smb
 ```
+```
+hydra -L /usr/share/metasploit-framework/data/wordlists/common_users.txt -P /usr/share/metasploit-framework/data/wordlists/unix_passwords.txt target_ip smb2
+```
 
 Password Spraying, Change service accordingly.
 ```

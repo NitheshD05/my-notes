@@ -78,7 +78,11 @@ I have a diverse skill set that includes penetration testing, network security, 
 
 # Featured
 
-<iframe src="https://www.juicer.io/api/feeds/nithesh-dhakshanamoorthy-2541111b3/iframe" frameborder="0" width="1000" height="1000" style="display:block;margin:0 auto;"></iframe>
+<iframe src="https://www.juicer.io/api/feeds/nithesh-dhakshanamoorthy-2541111b3/iframe" 
+        frameborder="0" 
+        width="200" 
+        height="300" 
+        style="display:block;margin:0 auto;"></iframe>
 
 ## Explore My Profile
 

